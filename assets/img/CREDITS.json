@@ -1,0 +1,255 @@
+{
+ "fotografias": [
+  {
+   "file": "atacama_paranal_vlt_laser_milky_way.jpg",
+   "title": "The VLT and the radiant Milky Way (D5C1091-CC)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:The_VLT_and_the_radiant_Milky_Way_(D5C1091-CC).jpg",
+   "author": "G. Hüdepohl (atacamaphoto.com)/ESO",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "Foto: G. Hüdepohl (atacamaphoto.com)/ESO / Wikimedia Commons, CC BY 4.0",
+   "description": "Very Large Telescope de ESO en el cerro Paranal (desierto de Atacama) con su láser de óptica adaptativa apuntando hacia la Vía Láctea.",
+   "usado_en": [
+    "assets/img/atacama.jpg"
+   ]
+  },
+  {
+   "file": "calbuco_eruption_2015_puerto_montt.jpg",
+   "title": "Erupción Volcán Calbuco (17062565578)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Erupci%C3%B3n_Volc%C3%A1n_Calbuco_(17062565578).jpg",
+   "author": "Carolina Barría Kemp",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "attribution": "Foto: Carolina Barría Kemp / Wikimedia Commons, CC BY-SA 2.0",
+   "description": "Columna eruptiva del volcán Calbuco el 22 de abril de 2015, vista al atardecer desde la costanera de Puerto Montt.",
+   "usado_en": [
+    "assets/img/calbuco.jpg"
+   ]
+  },
+  {
+   "file": "chile_wildfire_smoke_2023-02-03_satellite.jpg",
+   "title": "Chilefires amo 2023034 lrg",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Chilefires_amo_2023034_lrg.jpg",
+   "author": "NASA Earth Observatory (Lauren Dauphin, Allison Nussbaum), datos MODIS de NASA EOSDIS LANCE y GIBS/Worldview",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+   "attribution": "Imagen: NASA Earth Observatory / Lauren Dauphin y Allison Nussbaum, dominio público",
+   "description": "Imagen MODIS del 3 de febrero de 2023: densas columnas de humo de los incendios forestales del centro-sur de Chile (Biobío/Ñuble) se extienden sobre el océano Pacífico.",
+   "usado_en": [
+    "assets/img/wildfire.jpg"
+   ]
+  },
+  {
+   "file": "goes16_full_disk_south_america_2021-10-18.jpg",
+   "title": "GOES 16 2021-10-18 1630Z",
+   "source_url": "https://commons.wikimedia.org/wiki/File:GOES_16_2021-10-18_1630Z.jpg",
+   "author": "NOAA (GOES-16)",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NOAA",
+   "attribution": "Imagen: NOAA GOES-16 / Wikimedia Commons, dominio público",
+   "description": "Disco completo GeoColor del satélite GOES-16 (GOES-East), 18 de octubre de 2021, 16:30 UTC: América del Norte y del Sur con Sudamérica y los Andes claramente visibles. Formato cuadrado sobre fondo negro.",
+   "usado_en": [
+    "assets/img/goes-disk.jpg"
+   ]
+  },
+  {
+   "file": "goes16_full_disk_south_america_2022-12-01.jpg",
+   "title": "GOES 16 2022-12-01 1600Z",
+   "source_url": "https://commons.wikimedia.org/wiki/File:GOES_16_2022-12-01_1600Z.jpg",
+   "author": "NOAA (GOES-16)",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NOAA",
+   "attribution": "Imagen: NOAA GOES-16 / Wikimedia Commons, dominio público",
+   "description": "Disco completo en color verdadero del GOES-16 (instrumento ABI), 1 de diciembre de 2022, 16:00 UTC: Sudamérica casi despejada, con Chile y la cordillera de los Andes visibles. Formato cuadrado sobre fondo negro.",
+   "usado_en": [
+    "assets/img/goes-disk-2.jpg"
+   ]
+  },
+  {
+   "file": "nasa_goddard_aerial_autumn_sunset.jpg",
+   "title": "Aerial Views of Goddard- General Campus (SVS14485 - Goddard from Building 21 Sunset Still)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_Views_of_Goddard-_General_Campus_(SVS14485_-_Goddard_from_Building_21_Sunset_Still).jpg",
+   "author": "NASA's Scientific Visualization Studio (Cecelia Vitale-Reddy, Scott Wiessinger, Francis Reddy)",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+   "attribution": "Imagen: NASA Goddard / Scientific Visualization Studio, dominio público",
+   "description": "Vista aérea con dron del campus del NASA Goddard Space Flight Center (Greenbelt, MD) al atardecer, con follaje otoñal (noviembre de 2023).",
+   "usado_en": [
+    "assets/img/gsfc.jpg"
+   ]
+  },
+  {
+   "file": "ncwcp_noaa_building_college_park.jpg",
+   "title": "NCWCPcollegepark",
+   "source_url": "https://commons.wikimedia.org/wiki/File:NCWCPcollegepark.jpg",
+   "author": "National Oceanic and Atmospheric Administration (NOAA)",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NOAA",
+   "attribution": "Foto: NOAA / Wikimedia Commons, dominio público",
+   "description": "Edificio del NOAA Center for Weather and Climate Prediction (NCWCP) en College Park: fachada curva con parasoles de vidrio, banderas y plaza de acceso, cielo azul con nubes (2012).",
+   "usado_en": [
+    "assets/img/ncwcp.jpg"
+   ]
+  },
+  {
+   "file": "puyehue_cordon_caulle_2011_satellite.jpg",
+   "title": "Eruption of the Puyehue-Cordón Caulle volcano, Chile",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Eruption_of_the_Puyehue-Cord%C3%B3n_Caulle_volcano,_Chile.jpg",
+   "author": "NASA Goddard / MODIS Rapid Response Team",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+   "attribution": "Imagen: NASA Goddard / MODIS Rapid Response Team, dominio público",
+   "description": "Imagen MODIS del 6 de junio de 2011: pluma de ceniza del complejo volcánico Puyehue–Cordón Caulle cruzando la Patagonia argentina hacia el Atlántico.",
+   "usado_en": [
+    "assets/img/volcano.jpg"
+   ]
+  },
+  {
+   "file": "santiago_skyline_andes_blue_hour.jpg",
+   "title": "Blue hour in Santiago de Chile",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Blue_hour_in_Santiago_de_Chile.jpg",
+   "author": "Marco Nürnberger",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "attribution": "Foto: Marco Nürnberger / Wikimedia Commons, CC BY 2.0",
+   "description": "Santiago de Chile en la hora azul vista desde el cerro San Cristóbal: la Gran Torre Santiago iluminada y la cordillera de los Andes nevada al fondo (2015).",
+   "usado_en": [
+    "assets/img/santiago-andes.jpg"
+   ]
+  },
+  {
+   "file": "santiago_smog_haze_snowy_andes.jpg",
+   "title": "Chile (Santiago) Panoramic view of city and snow-capped Andes (33951226871)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Chile_(Santiago)_Panoramic_view_of_city_and_snow-capped_Andes_(33951226871).jpg",
+   "author": "Güldem Üstün",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "attribution": "Foto: Güldem Üstün / Wikimedia Commons, CC BY 2.0",
+   "description": "Santiago desde el cerro San Cristóbal en invierno: capa de esmog sobre la ciudad bajo la cordillera de los Andes nevada (agosto de 2013).",
+   "usado_en": [
+    "assets/img/santiago-smog.jpg"
+   ]
+  },
+  {
+   "file": "umd_mckeldin_library_dramatic_sky.jpg",
+   "title": "McKeldin Library Mall University Maryland College Park",
+   "source_url": "https://commons.wikimedia.org/wiki/File:McKeldin_Library_Mall_University_Maryland_College_Park.jpg",
+   "author": "Blacktupelo",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "attribution": "Foto: Blacktupelo / Wikimedia Commons, CC BY-SA 4.0",
+   "description": "McKeldin Library al atardecer bajo un cielo dramático; estudiantes jugando en el césped del McKeldin Mall como figuras pequeñas, sin rostros reconocibles (2019).",
+   "usado_en": [
+    "assets/img/umd-library.jpg"
+   ]
+  },
+  {
+   "file": "umd_mckeldin_mall_autumn.jpg",
+   "title": "Mckeldin Mall",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Mckeldin_Mall.jpg",
+   "author": "Radhika Kshirsagar",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "attribution": "Foto: Radhika Kshirsagar / Wikimedia Commons, CC BY-SA 4.0",
+   "description": "McKeldin Mall en otoño: fuentes y espejo de agua que conducen al Main Administration Building, árboles con colores otoñales y cielo azul (University of Maryland, College Park, 2013).",
+   "usado_en": [
+    "assets/img/umd-campus.jpg"
+   ]
+  },
+  {
+   "file": "usp_praca_do_relogio_torre_1.jpg",
+   "title": "At USP 2018 104",
+   "source_url": "https://commons.wikimedia.org/wiki/File:At_USP_2018_104.jpg",
+   "author": "Mike Peel (www.mikepeel.net)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "attribution": "Foto: Mike Peel (www.mikepeel.net) / Wikimedia Commons, CC BY-SA 4.0",
+   "description": "Torre do Relógio de la USP vista a través de los jardines de la Praça do Relógio, Cidade Universitária (São Paulo), con cielo de nubes claras; peatones pequeños y lejanos (2018).",
+   "usado_en": [
+    "assets/img/usp-campus.jpg"
+   ]
+  },
+  {
+   "file": "usp_iag_weather_station_agua_funda_sunny.jpg",
+   "title": "Cercadinho Meteorológico e Cúpula da Luneta Zeiss - Parque Cientec - USP - panoramio",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Cercadinho_Meteorol%C3%B3gico_e_C%C3%BApula_da_Luneta_Zeiss_-_Parque_Cientec_-_USP_-_panoramio.jpg",
+   "author": "Jeferson Felix",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "attribution": "Foto: Jeferson Felix / Wikimedia Commons, CC BY 3.0",
+   "description": "Estación Meteorológica del IAG-USP (Água Funda, Parque CienTec / Parque Estadual Fontes do Ipiranga): abrigos meteorológicos blancos y la cúpula del telescopio Zeiss bajo cielo azul (2008).",
+   "usado_en": [
+    "assets/img/iag.jpg"
+   ]
+  },
+  {
+   "file": "usp_ifusp_building_entrance.jpg",
+   "title": "Fotorreportagem da USP na Cidade Universitária (43655422211)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Fotorreportagem_da_USP_na_Cidade_Universit%C3%A1ria_(43655422211).jpg",
+   "author": "Governo do Estado de São Paulo",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "attribution": "Foto: Governo do Estado de São Paulo / Wikimedia Commons, CC BY 2.0",
+   "description": "Entrada principal del Instituto de Física de la USP (Rua do Matão, 1371) con el símbolo del IFUSP, cielo azul y sombras de árboles (2018).",
+   "usado_en": [
+    "assets/img/if-building.jpg"
+   ]
+  },
+  {
+   "file": "gmt_giant_magellan_telescope_night_render.jpg",
+   "title": "Giant Magellan Telescope Nighttime Render (GMT Rendering at Night-CC)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Giant_Magellan_Telescope_Nighttime_Render_(GMT_Rendering_at_Night-CC).jpg",
+   "author": "NOIRLab/NSF/AURA",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "Imagen: NOIRLab/NSF/AURA / Wikimedia Commons, CC BY 4.0",
+   "description": "Ilustración del Giant Magellan Telescope terminado en Las Campanas (Chile) bajo la Vía Láctea.",
+   "usado_en": [
+    "assets/img/gmt.jpg"
+   ]
+  },
+  {
+   "file": "chile_coast_stratocumulus_modis_2017-11-26.jpg",
+   "title": "Clouds off the coast of Chile (MODIS 2017-11-28)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Clouds_off_the_coast_of_Chile_(MODIS_2017-11-28).jpg",
+   "author": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+   "license": "Public domain",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+   "attribution": "Imagen: NASA / Jeff Schmaltz, MODIS Land Rapid Response Team, dominio público",
+   "description": "Imagen MODIS (Aqua) del 26 de noviembre de 2017: manto de estratocúmulos marinos sobre el Pacífico pegado a la costa del norte y centro de Chile, con los Andes y Argentina a la derecha.",
+   "usado_en": [
+    "assets/img/ocean.jpg"
+   ]
+  },
+  {
+   "file": "chile_drought_laguna_aculeo_2014-02-26_full.jpg",
+   "title": "Lake Aculeo Dries Up (February 26, 2014)",
+   "source_url": "https://science.nasa.gov/earth/earth-observatory/lake-aculeo-dries-up-144836/",
+   "author": "NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey",
+   "license": "Public domain",
+   "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "attribution": "Imagen: NASA Earth Observatory / Lauren Dauphin, dominio público",
+   "description": "Imagen Landsat 8 del 26 de febrero de 2014: la Laguna de Aculeo (Región Metropolitana) todavía con agua, antes de secarse por la megasequía de Chile central. Par «antes» de la comparación.",
+   "usado_en": [
+    "assets/img/drought.jpg (izquierda)"
+   ]
+  },
+  {
+   "file": "chile_drought_laguna_aculeo_2019-03-12_dry.jpg",
+   "title": "Lake Aculeo Dries Up (March 12, 2019)",
+   "source_url": "https://science.nasa.gov/earth/earth-observatory/lake-aculeo-dries-up-144836/",
+   "author": "NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey",
+   "license": "Public domain",
+   "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "attribution": "Imagen: NASA Earth Observatory / Lauren Dauphin, dominio público",
+   "description": "Imagen Landsat 8 del 12 de marzo de 2019: la Laguna de Aculeo casi totalmente seca por la megasequía de Chile central. Par «después» de la comparación.",
+   "usado_en": [
+    "assets/img/drought.jpg (derecha)"
+   ]
+  }
+ ],
+ "logotipos": "Los logotipos de UMD, ESSIC, CISESS, UTEM, USP, IAG-USP e IF-USP pertenecen a sus respectivas instituciones y se usan solo para identificarlas.",
+ "mapas": "Natural Earth (dominio público) y U.S. Census Bureau, Cartographic Boundary Files 2023 (dominio público).",
+ "iconos": "Lucide (licencia ISC), ver assets/LICENSE-lucide.txt",
+ "tipografias": "Barlow, Barlow Condensed y Crimson Pro (SIL Open Font License)."
+}
